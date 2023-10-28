@@ -21,7 +21,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page  
 THEN the saved events persist  
 
-![Work Day Scheduler](./Assets/WorkDayScheduler.png)
+![Work Day Scheduler](./Assets/WorkDayScheduler1.png)
 
 Repository Link: https://github.com/pvang1987/Work-Day-Scheduler  
 Deployment Link: https://pvang1987.github.io/Work-Day-Scheduler/
